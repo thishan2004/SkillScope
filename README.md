@@ -133,19 +133,6 @@ Data Collection
 → Streamlit Dashboard
 
 
-## Dashboard Screenshots
-
-### Market Insights
-
-![Market Insights](images/market_insights.png)
-
-### Employability Score
-
-![Employability Score](images/employability_score.png)
-
-### Career Recommendation
-
-![Career Recommendation](images/career_recommender.png)
 
 ## How to Run
 
@@ -174,8 +161,12 @@ streamlit run app/app.py
 
 ## Author
 
-Kugathasan Thishanujan 
+Kugathasan Thishanujan
+
+
 gmail- thishan2004@gmail.com 
+
+
 linkedin- https://www.linkedin.com/in/thishanujan-kugathasan-7282b9311/
 
 BSc (Hons) Information Technology – Data Science Specialization
