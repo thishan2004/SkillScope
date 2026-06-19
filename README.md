@@ -146,6 +146,7 @@ Data Collection
 ### Career Recommendation
 ![Career Recommendation](images/career_recommendation.png)
 
+
 ## How to Run
 
 1. Clone the repository
