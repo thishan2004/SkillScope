@@ -144,7 +144,7 @@ Data Collection
 ![Employability Score](images/Employability%20Score%20page.png)
 
 ### Career Recommendation
-![Career Recommendation](images/career_recommendation.png)
+![Career Recommendation](https://github.com/thishan2004/SkillScope/blob/main/images/%20career_recommendation.png)
 
 
 ## How to Run
