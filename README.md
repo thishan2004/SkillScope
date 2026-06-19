@@ -144,8 +144,7 @@ Data Collection
 ![Employability Score](images/Employability%20Score%20page.png)
 
 ### Career Recommendation
-![Career Recommendation](images/Career%20Recommendation%20page.png)
-
+![Career Recommendation](images/career_recommendation.png)
 
 ## How to Run
 
