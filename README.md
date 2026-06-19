@@ -132,6 +132,20 @@ Data Collection
 → Career Recommendation
 → Streamlit Dashboard
 
+## Dashboard Screenshots
+
+### Market Insights - Overview
+![Market Insights](images/Market%20Insights%20page.png)
+
+### Market Insights - Skills Analysis
+![Market Insights 2](images/Market%20Insights%20page%202.png)
+
+### Employability Score
+![Employability Score](images/Employability%20Score%20page.png)
+
+### Career Recommendation
+![Career Recommendation](images/Career%20Recommendation%20page.png)
+
 
 
 ## How to Run
