@@ -1,0 +1,10 @@
+data/raw/
+.DS_Store
+.Rhistory
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+.DS_Store
+.Rhistory
+__pycache__/
+.ipynb_checkpoints/
