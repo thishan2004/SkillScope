@@ -196,7 +196,7 @@ Data Collection
 
 ### Career Recommendation
 
-![Career Recommendation](images/career_recommendation.png)
+![Career Recommendation](https://github.com/thishan2004/SkillScope/blob/main/images/%20career_recommendation.png)
 
 ---
 
