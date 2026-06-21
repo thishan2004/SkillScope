@@ -1,5 +1,9 @@
 # SkillScope: Data Science Job Market Analytics & Career Recommendation System
 
+## Live Demo
+
+https://skillscope-fhuwyzjefjjsd5ghvf63xf.streamlit.app
+
 ## Overview
 
 SkillScope is an end-to-end Data Science project that helps aspiring data professionals understand current job market trends, identify skill gaps, evaluate employability, and discover suitable career paths.
