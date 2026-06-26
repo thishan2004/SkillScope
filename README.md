@@ -4,6 +4,13 @@
 
 https://skillscope-fhuwyzjefjjsd5ghvf63xf.streamlit.app
 
+## Tableau Dashboard
+
+Explore an interactive Tableau dashboard that visualizes current trends in the Data Science job market.
+
+🔗 Tableau Public:
+https://public.tableau.com/app/profile/thishanujan.kugathasan/viz/SkillScope_Dashboard/DataScienceJobMarketDashboard?publish=yes
+
 ## Overview
 
 SkillScope is an end-to-end Data Science project that helps aspiring data professionals understand current job market trends, identify skill gaps, evaluate employability, and discover suitable career paths.
